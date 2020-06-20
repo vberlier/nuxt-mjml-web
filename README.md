@@ -9,7 +9,7 @@
 You can install `nuxt-mjml-web` with your `npm` client of choice.
 
 ```bash
-$ npm install nuxt-mjml-web
+$ npm install --save-dev nuxt-mjml-web
 ```
 
 ## Usage
