@@ -1,0 +1,32 @@
+{
+  "name": "nuxt-mjml-web",
+  "version": "0.0.0",
+  "description": "Browser-compatible mjml module for NuxtJS",
+  "author": "Valentin Berlier <berlier.v@gmail.com>",
+  "license": "MIT",
+  "keywords": [
+    "nuxt-module",
+    "nuxt",
+    "mjml",
+    "browser"
+  ],
+  "homepage": "https://github.com/vberlier/nuxt-mjml-web#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vberlier/nuxt-mjml-web.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vberlier/nuxt-mjml-web/issues"
+  },
+  "main": "index.js",
+  "scripts": {
+    "postversion": "git push --follow-tags"
+  },
+  "dependencies": {
+    "lodash": "^4.17.15",
+    "mjml-web": "4.6.3"
+  },
+  "files": [
+    "index.js"
+  ]
+}
