@@ -7,7 +7,7 @@ lodash@^4.17.15:
   resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.20.tgz#b44a9b6297bcb698f1c51a3545a2b3b368d59c52"
   integrity sha512-PlhdFcillOINfeV7Ni6oF1TAEayyZBoZ8bcshTHqOYJYlrqzRK5hagpagky5o4HfCzzd1TRkXPMFq6cKk9rGmA==
 
-mjml-web@4.7.0:
-  version "4.7.0"
-  resolved "https://registry.yarnpkg.com/mjml-web/-/mjml-web-4.7.0.tgz#8267e53e805ee3be54fe65ff9ff1514c7ba1a45c"
-  integrity sha512-vD+rRX7sBnXqTrWa9FFTn3RpCUlo6DvtESouNjOJgbOfpXLP9mA2PMMiS7WwvGvAX+PxndvD6aOWzA6uINNUAg==
+mjml-web@4.10.0:
+  version "4.10.0"
+  resolved "https://registry.yarnpkg.com/mjml-web/-/mjml-web-4.10.0.tgz#4313c9f1071ac25aade2a5692fb9eaeec18c3cad"
+  integrity sha512-jacnZrDl2nGTkQIL2n2sbX//caHrpSOcDjAnAgmkxj+V6dJMhLOso4GGX484obDxRx7W7ZQLFBCC37C18LIxkg==
